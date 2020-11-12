@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/food-packaging-alts/static/js/main.2cde7a48.chunk.js",
+    "main.js.map": "/food-packaging-alts/static/js/main.2cde7a48.chunk.js.map",
+    "runtime-main.js": "/food-packaging-alts/static/js/runtime-main.276f40ad.js",
+    "runtime-main.js.map": "/food-packaging-alts/static/js/runtime-main.276f40ad.js.map",
+    "static/js/2.c1e3c74d.chunk.js": "/food-packaging-alts/static/js/2.c1e3c74d.chunk.js",
+    "static/js/2.c1e3c74d.chunk.js.map": "/food-packaging-alts/static/js/2.c1e3c74d.chunk.js.map",
+    "index.html": "/food-packaging-alts/index.html",
+    "static/js/2.c1e3c74d.chunk.js.LICENSE.txt": "/food-packaging-alts/static/js/2.c1e3c74d.chunk.js.LICENSE.txt",
+    "static/media/hydrogel.eecaf27c.png": "/food-packaging-alts/static/media/hydrogel.eecaf27c.png",
+    "static/media/plastic.762fbb8c.jpg": "/food-packaging-alts/static/media/plastic.762fbb8c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.276f40ad.js",
+    "static/js/2.c1e3c74d.chunk.js",
+    "static/js/main.2cde7a48.chunk.js"
+  ]
+}
