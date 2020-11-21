@@ -1,19 +1,23 @@
 {
   "files": {
-    "main.js": "/food-packaging-alts/static/js/main.2cde7a48.chunk.js",
-    "main.js.map": "/food-packaging-alts/static/js/main.2cde7a48.chunk.js.map",
+    "main.js": "/food-packaging-alts/static/js/main.cc184553.chunk.js",
+    "main.js.map": "/food-packaging-alts/static/js/main.cc184553.chunk.js.map",
     "runtime-main.js": "/food-packaging-alts/static/js/runtime-main.276f40ad.js",
     "runtime-main.js.map": "/food-packaging-alts/static/js/runtime-main.276f40ad.js.map",
-    "static/js/2.c1e3c74d.chunk.js": "/food-packaging-alts/static/js/2.c1e3c74d.chunk.js",
-    "static/js/2.c1e3c74d.chunk.js.map": "/food-packaging-alts/static/js/2.c1e3c74d.chunk.js.map",
+    "static/js/2.8a39ae98.chunk.js": "/food-packaging-alts/static/js/2.8a39ae98.chunk.js",
+    "static/js/2.8a39ae98.chunk.js.map": "/food-packaging-alts/static/js/2.8a39ae98.chunk.js.map",
     "index.html": "/food-packaging-alts/index.html",
-    "static/js/2.c1e3c74d.chunk.js.LICENSE.txt": "/food-packaging-alts/static/js/2.c1e3c74d.chunk.js.LICENSE.txt",
+    "static/js/2.8a39ae98.chunk.js.LICENSE.txt": "/food-packaging-alts/static/js/2.8a39ae98.chunk.js.LICENSE.txt",
+    "static/media/agar.0f77a243.png": "/food-packaging-alts/static/media/agar.0f77a243.png",
+    "static/media/cabbage.aa012c06.jpg": "/food-packaging-alts/static/media/cabbage.aa012c06.jpg",
+    "static/media/chitosan.78907e47.png": "/food-packaging-alts/static/media/chitosan.78907e47.png",
     "static/media/hydrogel.eecaf27c.png": "/food-packaging-alts/static/media/hydrogel.eecaf27c.png",
-    "static/media/plastic.762fbb8c.jpg": "/food-packaging-alts/static/media/plastic.762fbb8c.jpg"
+    "static/media/plastic.85456be4.jpg": "/food-packaging-alts/static/media/plastic.85456be4.jpg",
+    "static/media/white.d9b1f45e.jpg": "/food-packaging-alts/static/media/white.d9b1f45e.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.276f40ad.js",
-    "static/js/2.c1e3c74d.chunk.js",
-    "static/js/main.2cde7a48.chunk.js"
+    "static/js/2.8a39ae98.chunk.js",
+    "static/js/main.cc184553.chunk.js"
   ]
 }
