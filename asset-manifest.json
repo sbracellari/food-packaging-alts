@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/food-packaging-alts/static/js/main.cc184553.chunk.js",
-    "main.js.map": "/food-packaging-alts/static/js/main.cc184553.chunk.js.map",
+    "main.js": "/food-packaging-alts/static/js/main.8deeaabc.chunk.js",
+    "main.js.map": "/food-packaging-alts/static/js/main.8deeaabc.chunk.js.map",
     "runtime-main.js": "/food-packaging-alts/static/js/runtime-main.276f40ad.js",
     "runtime-main.js.map": "/food-packaging-alts/static/js/runtime-main.276f40ad.js.map",
     "static/js/2.8a39ae98.chunk.js": "/food-packaging-alts/static/js/2.8a39ae98.chunk.js",
@@ -18,6 +18,6 @@
   "entrypoints": [
     "static/js/runtime-main.276f40ad.js",
     "static/js/2.8a39ae98.chunk.js",
-    "static/js/main.cc184553.chunk.js"
+    "static/js/main.8deeaabc.chunk.js"
   ]
 }
