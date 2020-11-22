@@ -65,9 +65,9 @@ const useStyles = makeStyles(() => ({
     width: '65%',
     padding: 30,
     backgroundColor: '#f4f4f4',
-    height: 800,
+    height: '75vh',
     marginTop: 150,
-  },
+  }
 }))
 
 export default function App() {

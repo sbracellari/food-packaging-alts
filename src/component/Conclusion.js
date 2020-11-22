@@ -26,6 +26,7 @@ export default function Conclusion() {
       <Typography className={classes.title}>So, which alternative is better?</Typography>
       <Typography className={classes.section}>
         If we just look at each substance in its pure state, then the winner is clearly hydrogels.
+        It's got thermal and mechanical properties, is biodegradable, FDA approved, and its <em>super</em> absorbent.
         But if we’re being realistic, we know that the science behind isn’t just comparing these
         things in their pure state. It’s pretty likely that whatever is selected, whether it be
         something we talked about today or not, will be some sort of hybrid; multiple elements will
