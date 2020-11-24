@@ -52,21 +52,20 @@ const useStyles = makeStyles(() => ({
     textAlign: 'center',
   },
   container: {
-    height: '100vh',
+    height: 'auto',
     backgroundImage: `url(${white})`,
     margin: -10,
     boxShadow: '0 0 8px 8px white',
     display: 'flex',
     justifyContent: 'center',
+    backgroundRepeat: 'repeat-y'
   },
   content: {
-    overflowY: 'scroll',
-    overflowX: 'hidden',
     width: '65%',
     padding: 30,
     backgroundColor: '#f4f4f4',
-    height: '75vh',
     marginTop: 150,
+    marginBottom: 30
   },
 }))
 
